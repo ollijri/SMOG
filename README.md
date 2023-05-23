@@ -1,1 +1,1 @@
-# The SME OSINT Guide for Due DIligence (SMOG)
+# The SME OSINT Guide for Due Diligence (SMOG)
