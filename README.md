@@ -69,6 +69,9 @@ ________________________________________________________________________________
 
 - [ ] Request DBS From Applicant
 
+policy on recruitment of ex offenders [here](https://www.gov.uk/government/publications/dbs-sample-policy-on-the-recruitment-of-ex-offenders/sample-policy-on-the-recruitment-of-ex-offenders)
+
+policy on data handling of dbs [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/474742/Code_of_Practice_for_Disclosure_and_Barring_Service_Nov_15.pdf)
 ____________________________________________________________________________________________________________________
 
 ### Current/Previous Company Search 🏢
@@ -84,7 +87,7 @@ ________________________________________________________________________________
 
 <details>
 
-<summary>How Can I Conduct an Effective Search On Lthe Company Register?</summary>
+<summary>How Can I Conduct an Effective Search On the Company Register?</summary>
 
 </details>
 
@@ -119,6 +122,6 @@ ________________________________________________________________________________
 
 <details>
 
-  <summary>How Do Effectively Conduct a Vehicle Enquiry?</summary>
+  <summary>How Do I Effectively Conduct a Vehicle Enquiry?</summary>
 
 </details>
