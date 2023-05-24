@@ -7,6 +7,9 @@ ________________________________________________________________________________
 ### Google Dorking 🌍
 
 - [ ] Simple Google Search of Target's Name
+- [ ] Google Dork Search of Name + Location
+- [ ] Google Dork Search of Name + Local News
+- [ ] Google Dork Search of Name + Key Interest of Applicant (If Known)
 
 <details>
 
@@ -16,7 +19,7 @@ ________________________________________________________________________________
 
 <details>
 
-<summary>How Can Google Dorking Be Applied To Background Check Due Dilligence?</summary>
+<summary>Search Terms To Use To Assist in Google Dorking</summary>
 
 </details>
 
@@ -24,11 +27,17 @@ ________________________________________________________________________________
 
 ### Username OSINT 💻
 
-- [ ] Temporary Checkbox
+- [ ] Use a Username Checker To Locate Other Sites of Legitimate Interest
 
 <details>
 
-<summary>Temporary Dropdown</summary>
+<summary>How Do These Sites Work?</summary>
+
+</details>
+
+<details>
+
+<summary>Reccomended Sites To Use</summary>
 
 </details>
 
@@ -36,11 +45,19 @@ ________________________________________________________________________________
 
 ### Social Media OSINT 💻
 
-- [ ] Temporary Checkbox
+- [ ] Check Facebook
+- [ ] Check Twitter
+- [ ] Check LinkedIn
 
 <details>
 
-<summary>Temporary Dropdown</summary>
+<summary>What Am I Looking For?</summary>
+
+</details>
+
+<details>
+
+<summary>What If The Account Is Private?</summary>
 
 </details>
 
@@ -48,23 +65,32 @@ ________________________________________________________________________________
 
 ### Obtaining Criminal Records of Target 👮
 
-- [ ] Temporary Checkbox
+-- more info goes here about how only obtainable from gov uk ---
 
-<details>
-
-<summary>Temporary Dropdown</summary>
-
-</details>
+- [ ] Request DBS From Applicant
 
 ____________________________________________________________________________________________________________________
 
 ### Current/Previous Company Search 🏢
 
-- [ ] Temporary Checklist
+- [ ] Check GOV.UK Company Register
+- [ ] Check LinkedIn
 
 <details>
 
-<summary>Temporary Dropdown</summary>
+<summary>What Am I Looking For?</summary>
+
+</details>
+
+<details>
+
+<summary>How Can I Conduct an Effective Search On Lthe Company Register?</summary>
+
+</details>
+
+<details>
+
+<summary>How Can I Conduct an Effective Search On LinkedIn?</summary>
 
 </details>
 
@@ -72,18 +98,27 @@ ________________________________________________________________________________
 
 ### Obtaining Qualification Information 🏫
 
-<details>
+-- more info goes here about how only obtainable thru institution --
 
-<summary>Temporary Dropdown</summary>
-
-</details>
+- [ ] Request Official Certificates From Applicant
 
 ____________________________________________________________________________________________________________________
 
 ### Obtaining Vehicle Information of Target 🚗
 
+-- more info goes here about how only obtainable from gov uk ---
+
+- [ ] Check Driving License Information on GOV.UK
+- [ ] Conduct Vehicle Enquiry on GOV.UK
+
 <details>
 
-<summary>Temporary Dropdown</summary>
+  <summary>How Do I Check Driver's License Information?</summary>
+
+</details>
+
+<details>
+
+  <summary>How Do Effectively Conduct a Vehicle Enquiry?</summary>
 
 </details>
