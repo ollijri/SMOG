@@ -4,13 +4,23 @@
 
 ### Discovering Usernames of Target
 
+- [ ] Temporary Checkbox
+
 ### Username OSINT
+
+- [ ] Temporary Checkbox
 
 ### Social Media OSINT
 
+- [ ] Temporary Checkbox
+
 ### Obtaining Criminal Records of Target
 
+- [ ] Temporary Checkbox
+
 ### Current/Previous Company Search
+
+- [ ] Temporary Checklist
 
 ### Obtaining Qualifications
 
