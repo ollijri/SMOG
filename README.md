@@ -1,17 +1,17 @@
 # The SME OSINT Guide for Due Diligence (SMOG)
 
-## Introductory Information
+### Introductory Information
 
-## Discovering Usernames of Target
+### Discovering Usernames of Target
 
-## Username OSINT
+### Username OSINT
 
-## Social Media OSINT
+### Social Media OSINT
 
-## Obtaining Criminal Records of Target
+### Obtaining Criminal Records of Target
 
-## Current/Previous Company Search
+### Current/Previous Company Search
 
-## Obtaining Qualifications
+### Obtaining Qualifications
 
-## Obtaining Vehicle Information of Target
+### Obtaining Vehicle Information of Target
