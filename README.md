@@ -1,27 +1,27 @@
 # The SME OSINT Guide for Due Diligence (SMOG)
 
-### Introductory Information
+### Introductory Information 🌟
 
-### Discovering Usernames of Target
-
-- [ ] Temporary Checkbox
-
-### Username OSINT
+### Discovering Usernames of Target 🌍
 
 - [ ] Temporary Checkbox
 
-### Social Media OSINT
+### Username OSINT 💻
 
 - [ ] Temporary Checkbox
 
-### Obtaining Criminal Records of Target
+### Social Media OSINT 💻
 
 - [ ] Temporary Checkbox
 
-### Current/Previous Company Search
+### Obtaining Criminal Records of Target 👮
+
+- [ ] Temporary Checkbox
+
+### Current/Previous Company Search 🏢
 
 - [ ] Temporary Checklist
 
-### Obtaining Qualifications
+### Obtaining Qualification Information 🏫
 
-### Obtaining Vehicle Information of Target
+### Obtaining Vehicle Information of Target 🚗
