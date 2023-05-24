@@ -2,7 +2,7 @@
 
 ### Introductory Information 🌟
 
-### Discovering Usernames of Target 🌍
+### Google Dorking 🌍
 
 - [ ] Temporary Checkbox
 
