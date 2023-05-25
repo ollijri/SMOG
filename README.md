@@ -265,19 +265,31 @@ ________________________________________________________________________________
 
 ### Obtaining Vehicle Information of Target 🚗
 
--- more info goes here about how only obtainable from gov uk ---
+The best and most reliable way to obtain vehicle information in the UK is through the [Driver and Vehicle Licensing Agency](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency) (DVLA).
 
-- [ ] Check Driving License Information on GOV.UK
-- [ ] Conduct Vehicle Enquiry on GOV.UK
+- [ ] Check Driving License Information
+- [ ] Conduct Vehicle Enquiry
 
 <details>
 
   <summary><b>How Do I Check Driver's License Information?</b></summary>
+<br>
+  
+  The section of the DVLA website which the user will need to visit is the [Check Driving Information](https://www.gov.uk/check-driving-information) page. This allows the employer to find out whether the applicant has any penalty points or disqualifications:
+  
+  ![image](https://github.com/ollijri/SMOG/assets/66912443/e8703db7-beaa-4461-986c-0bc8fe419886)
 
+  <br>
+  
+ 📋 <i>A check code is also required which means getting consent from the applicant to share this information. The applicant will need to go [here](https://www.gov.uk/view-driving-licence) to get their sort code</i>
+  
 </details>
 
 <details>
 
   <summary><b>How Do I Effectively Conduct a Vehicle Enquiry?</b></summary>
-
+  <br>
+  
+  
+  
 </details>
