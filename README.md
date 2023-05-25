@@ -13,13 +13,27 @@ ________________________________________________________________________________
 
 <details>
 
-<summary>What is Google Dorking?</summary>
+  <summary><b>What is Google Dorking?</b></summary>
 
+  <br>
+
+  Google Dorking (also known as Google Hacking) is the act of using advanced 'search operators' in the search bar of Google to obtain information that would be otherwise hard to find. 
+  
+  <br>
+  
+  By correctly utilising Google Dorking, you can uncover the following information that relates to this stage in the investigation:
+  
+  - Usernames <--- This is what we want to be looking for as a top priority
+  - Personally Identifiable Information
+  - Email Addresses
+  
+  <br>
+  
 </details>
 
 <details>
 
-<summary>Search Terms To Use To Assist in Google Dorking</summary>
+<summary><b>What 'Search Operators' Can I Use To Assist in Google Dorking?</b></summary>
 
 </details>
 
@@ -33,19 +47,19 @@ ________________________________________________________________________________
 
 <details>
 
-<summary>How Do These Sites Work?</summary>
+<summary><b>How Do These Sites Work?</b></summary>
 
 </details>
 
 <details>
 
-<summary>Reccomended Sites To Use</summary>
+<summary><b>Reccomended Sites To Use</b></summary>
 
 </details>
 
 <details>
 
-<summary>What Can I Do With This Information?</summary>
+<summary><b>What Can I Do With This Information?</b></summary>
 
 </details>
 
@@ -62,13 +76,13 @@ ________________________________________________________________________________
 
 <details>
 
-<summary>What Am I Looking For?</summary>
+<summary><b>What Am I Looking For?</b></summary>
 
 </details>
 
 <details>
 
-<summary>What If The Account Is Private?</summary>
+<summary><b>What If The Account Is Private?</b></summary>
 
 </details>
 
@@ -92,19 +106,19 @@ ________________________________________________________________________________
 
 <details>
 
-<summary>What Am I Looking For?</summary>
+<summary><b>What Am I Looking For?</b></summary>
 
 </details>
 
 <details>
 
-<summary>How Can I Conduct an Effective Search On the Company Register?</summary>
+<summary><b>How Can I Conduct an Effective Search On the Company Register?</b></summary>
 
 </details>
 
 <details>
 
-<summary>How Can I Conduct an Effective Search On LinkedIn?</summary>
+<summary><b>How Can I Conduct an Effective Search On LinkedIn?</b></summary>
 
 </details>
 
@@ -127,12 +141,12 @@ ________________________________________________________________________________
 
 <details>
 
-  <summary>How Do I Check Driver's License Information?</summary>
+  <summary><b>How Do I Check Driver's License Information?</b></summary>
 
 </details>
 
 <details>
 
-  <summary>How Do I Effectively Conduct a Vehicle Enquiry?</summary>
+  <summary><b>How Do I Effectively Conduct a Vehicle Enquiry?</b></summary>
 
 </details>
