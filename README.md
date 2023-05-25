@@ -87,6 +87,7 @@ ________________________________________________________________________________
 
 ### Username OSINT 💻
 
+- [ ] Simple Google Search of Username
 - [ ] Locate Additional Social Media Not Found Through Google Dorking
 - [ ] Locate Other Sites of Legitimate Interest Using Target Username
 
