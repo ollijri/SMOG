@@ -30,6 +30,9 @@ The primary audience for this is UK-based SMEs. This tool can of course be used 
 
 </details>
 
+<br>
+
+The individual "William Jenkins" referenced throughout this report serves purely as an example and does not represent a real person.
 ____________________________________________________________________________________________________________________
 
 ### Google Dorking 🌍
@@ -80,20 +83,28 @@ ________________________________________________________________________________
 
 ### Username OSINT 💻
 
--- aim of this step is to find accounts that are irrefutably the applicants, note must be made to respect applicants right to privacy however under articel 8 of human rights .... --
-
-- [ ] Use a Username Checker To Locate Other Sites of Legitimate Interest
+- [ ] Locate Additional Social Media Not Found Through Google Dorking
+- [ ] Locate Other Sites of Legitimate Interest Using Target Username
 
 <details>
 
 <summary><b>Where Could We Look for Potential Usernames?</b></summary>
 
-</details>
+<br>
+  
+The easiest and most obvious places to look are within the profile page of any identified social media pages from the results of Google Dorking. 
+  
+Once one username has been identified, this can be run through a username checking websites to try to locate further accounts linked to the target.
+  
+| Site | Location | Example |
+| --- | --- | --- |
+| Facebook | Within the URL on the target's profile | facebook.com/Jenkins123/ |
+| Twitter | Underneath the account name on the profile | @Jenkins123 |
+| Linkedin | Within the URL on the target's profile | linkedin.com/in/Jenkins123/ |
+| Tiktok | Within the URL on the target's profile | tiktok.com/@Jenkins123 |
 
-<details>
-
-<summary><b>How Do These Sites Work?</b></summary>
-
+<br>
+  
 </details>
 
 <details>
@@ -104,7 +115,7 @@ ________________________________________________________________________________
 
 <details>
 
-<summary><b>What Can I Do With This Information?</b></summary>
+<summary><b>How Do These Sites Work?</b></summary>
 
 </details>
 
