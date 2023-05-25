@@ -2,6 +2,34 @@
 
 ### Introductory Information 🌟
 
+<details>
+
+<summary><b>Why Was This Made?</b></summary>
+
+  <br>
+  
+  This guide was made as part of my dissertation submission.
+  
+It has been found that while employers understand that background checks must be conducted, they do not know how to conduct them themselves. Literature has also found that reports often talk about the need for checks but do not discuss how to do so. 
+  
+This proposed methodology aims to have a user-friendly design and aims to be understandable to individuals at any level of technical ability.
+  
+By focusing on user comprehension, the methodology attempts to close the gap between the employers understanding of the need to conduct checks, and their ability to do so.
+ 
+  <br>
+  
+</details>
+
+<details>
+
+<summary><b>Who Is This For?</b></summary>
+
+  <br>
+  
+The primary audience for this is UK-based SMEs. This tool can of course be used by anyone however the examples provided and wording is tailored towards hiring practices. 
+
+</details>
+
 ____________________________________________________________________________________________________________________
 
 ### Google Dorking 🌍
@@ -55,6 +83,12 @@ ________________________________________________________________________________
 -- aim of this step is to find accounts that are irrefutably the applicants, note must be made to respect applicants right to privacy however under articel 8 of human rights .... --
 
 - [ ] Use a Username Checker To Locate Other Sites of Legitimate Interest
+
+<details>
+
+<summary><b>Where Could We Look for Potential Usernames?</b></summary>
+
+</details>
 
 <details>
 
