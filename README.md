@@ -199,20 +199,16 @@ By this stage, hopefully the 'Username OSINT' and 'Google Dorking' techniques wi
 
 The next step is to consider the content of the accounts to see if the target will be detrimental to your business:
 
-- [ ] Check Facebook
-- [ ] Check Twitter
-- [ ] Check LinkedIn
-- [ ] Check Other Sites of Interest Located in the 'Username OSINT' Section
-
-<details>
-
-<summary><b>What Am I Looking For?</b></summary>
-
-</details>
+- [ ] Search Facebook Profile
+- [ ] Search Twitter Profile
+- [ ] Search LinkedIn Profile
+- [ ] Search Other Sites of Interest Located in the 'Username OSINT' Section
 
 <details>
 
 <summary><b>What If The Account Is Private?</b></summary>
+<br>
+If the account is private, thats it. Its private. Do not believe the sources you see online that claim you can "sign up now to see all contents of a private account", they are scams.
 
 </details>
 
@@ -231,6 +227,10 @@ ________________________________________________________________________________
 policy on recruitment of ex offenders [here](https://www.gov.uk/government/publications/dbs-sample-policy-on-the-recruitment-of-ex-offenders/sample-policy-on-the-recruitment-of-ex-offenders)
 
 policy on data handling of dbs [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/474742/Code_of_Practice_for_Disclosure_and_Barring_Service_Nov_15.pdf)
+
+<br>
+
+📋 <i> In accordance with the Rehabilitation of Offenders Act, employers cannot turn away an applicant due to a spent conviction and must treat the applicant as though the conviction had not happened . </i>
 ____________________________________________________________________________________________________________________
 
 ### Current/Previous Company Search 🏢
