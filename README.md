@@ -54,6 +54,7 @@ ________________________________________________________________________________
 - [ ] Check Facebook
 - [ ] Check Twitter
 - [ ] Check LinkedIn
+- [ ] Check Other Sites of Interest Located in the Previous Section
 
 <details>
 
