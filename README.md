@@ -27,6 +27,8 @@ ________________________________________________________________________________
 
 ### Username OSINT 💻
 
+-- aim of this step is to find accounts that are irrefutably the applicants, note must be made to respect applicants right to privacy however under articel 8 of human rights .... --
+
 - [ ] Use a Username Checker To Locate Other Sites of Legitimate Interest
 
 <details>
@@ -50,6 +52,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 ### Social Media OSINT 💻
+
+-- aim of this step is to find problems associated with your business or vierws applicant may have that would negatively effect reputation of business, reminder to stay within scope --
 
 - [ ] Check Facebook
 - [ ] Check Twitter
