@@ -233,21 +233,24 @@ ________________________________________________________________________________
 
 ### Current/Previous Company Search 🏢
 
-If the target states they have worked for companies before that spark your interest (especiall if they are big names), it is important to verify this information. 
-
-If they claim to have owned their own company before, this information can also be verified using the Company Register on the GOV.UK website.
+If the target states they have worked for companies before that spark your interest (especially if they are big names), it is important to verify this information. 
 
 - [ ] Check GOV.UK Company Register
-- [ ] Check LinkedIn
-
-<summary><b>How Can I Conduct an Effective Search On the Company Register?</b></summary>
-
-</details>
 
 <details>
 
-<summary><b>How Can I Conduct an Effective Search On LinkedIn?</b></summary>
+<summary><b>How Do I Conduct a Search On the Company Register?</b></summary>
 
+ <br> 
+  
+For applicants who state they have owned their own company, this can be checked through the [Company Register](https://find-and-update.company-information.service.gov.uk/) on the GOV.UK website.
+  
+It is as simple as typing it in the search bar and hitting enter. This register includes data such as previous company names, registered addresses, date of incorporation etc.
+  
+If the company dissolved before 2009, you can search for it [here](https://find-and-update.company-information.service.gov.uk/dissolved-search) instead.
+
+  <br>
+  
 </details>
 
 ____________________________________________________________________________________________________________________
@@ -289,7 +292,7 @@ This section assumes that the user knows the number plate of the target vehicle.
 
 <details>
 
-  <summary><b>How Do I Effectively Conduct a Vehicle Enquiry?</b></summary>
+  <summary><b>How Do I Conduct a Vehicle Enquiry?</b></summary>
   <br>
   
   The section of the DVLA website which the user will need to visit is the [Vehicle Enquiry Service](https://vehicleenquiry.service.gov.uk/)
