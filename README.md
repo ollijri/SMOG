@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
   <br>
 
-  Google Dorking (also known as Google Hacking) is the act of using advanced 'search operators' in the search bar of Google to obtain information that would be otherwise hard to find. 
+  Google Dorking (also known as Google Hacking) is the act of using advanced 'search operators' in the search bar of Google to obtain information that would be otherwise hard to find by refining your search results. 
   
   <br>
   
@@ -34,6 +34,17 @@ ________________________________________________________________________________
 <details>
 
 <summary><b>What 'Search Operators' Can I Use To Assist in Google Dorking?</b></summary>
+  
+  <br>
+  
+| Operator | Usage | Example |
+| --- | --- | --- |
+| "" | Specifies words MUST be in search results | "William Jenkins" |
+| - | Excludes words from search results | "William Jenkins" -Census |
+| site: | Restricts results to a specific site | "William Jenkins" site:facebook.com |
+| OR | Searches for multiple words as alternatives to one another | William OR Will |
+| AND | Restricts results to those that include both words | "William Jenkins" AND "Cyber Security" |
+| allintext: | Only shows results where the text is in | allintext:William Jenkins |
 
 </details>
 
