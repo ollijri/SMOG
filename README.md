@@ -232,16 +232,12 @@ ________________________________________________________________________________
 
 ### Current/Previous Company Search 🏢
 
+If the target states they have worked for companies before that spark your interest (especiall if they are big names), it is important to verify this information. 
+
+If they claim to have owned their own company before, this information can also be verified using the Company Register on the GOV.UK website.
+
 - [ ] Check GOV.UK Company Register
 - [ ] Check LinkedIn
-
-<details>
-
-<summary><b>What Am I Looking For?</b></summary>
-
-</details>
-
-<details>
 
 <summary><b>How Can I Conduct an Effective Search On the Company Register?</b></summary>
 
@@ -257,7 +253,10 @@ ________________________________________________________________________________
 
 ### Obtaining Qualification Information 🏫
 
--- more info goes here about how only obtainable thru institution --
+It is suggested for the user to request to see the official certificate for their qualification upon interview in order to get an idea on whether the applicant is truthful.
+
+Unfortunately, in the UK, the target's qualification information can only be verified by contacting the awarding institution.
+
 
 - [ ] Request Official Certificates From Applicant
 
@@ -265,7 +264,9 @@ ________________________________________________________________________________
 
 ### Obtaining Vehicle Information of Target 🚗
 
-The best and most reliable way to obtain vehicle information in the UK is through the [Driver and Vehicle Licensing Agency](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency) (DVLA).
+The best and most reliable way to obtain vehicle information in the UK is through the [Driver and Vehicle Licensing Agency](https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency) (DVLA). 
+
+This section assumes that the user knows the number plate of the target vehicle.
 
 - [ ] Check Driving License Information
 - [ ] Conduct Vehicle Enquiry
@@ -290,6 +291,10 @@ The best and most reliable way to obtain vehicle information in the UK is throug
   <summary><b>How Do I Effectively Conduct a Vehicle Enquiry?</b></summary>
   <br>
   
+  The section of the DVLA website which the user will need to visit is the [Vehicle Enquiry Service](https://vehicleenquiry.service.gov.uk/)
   
+  This allows employers to check whether an applicant's vehicle is taxed, the MOT information, engine size, weight etc:
+  
+  ![image](https://github.com/ollijri/SMOG/assets/66912443/dd64af45-e9d4-4e47-b618-47a383c7fd33)
   
 </details>
