@@ -26,13 +26,17 @@ By focusing on user comprehension, the methodology attempts to close the gap bet
 
   <br>
   
-The primary audience for this is UK-based SMEs. This tool can of course be used by anyone however the examples provided and wording is tailored towards hiring practices. 
+The primary audience for this is UK-based SMEs to help conduct their due dilligence in the background checking stage of hiring. This guide can be used by anyone. The examples provided and wording is, however, tailored towards hiring practices. 
 
 </details>
 
 <br>
 
-The individual "William Jenkins" referenced throughout this report serves purely as an example and does not represent a real person.
+
+
+📋 <i> The user of this methodology must employ fair hiring practices and must not use this guide to discriminate against individuals or groups based on perceived characteristics.  </i>
+
+📋 <i> The individual "William Jenkins" referenced throughout this guide serves purely as an example and does not represent a real person. </i>
 ____________________________________________________________________________________________________________________
 
 ### Google Dorking 🌍
@@ -92,9 +96,7 @@ ________________________________________________________________________________
 
 <br>
   
-The easiest and most obvious places to look are within the profile page of any identified social media pages from the results of Google Dorking. 
-  
-Once one username has been identified, this can be run through a username checking websites to try to locate further accounts linked to the target.
+The easiest and most obvious places to look are within the profile page of any identified social media pages from the results of Google Dorking. Once one username has been identified, this can be run through a 'Username Checking Site' to try to locate further accounts linked to the target.
   
 | Site | Location | Example |
 | --- | --- | --- |
@@ -109,26 +111,98 @@ Once one username has been identified, this can be run through a username checki
 
 <details>
 
-<summary><b>Reccomended Sites To Use</b></summary>
+<summary><b>What Can We Do With These Usernames?</b></summary>
 
+  <br>
+  
+  The located usernames can be put into a 'Username Search Site' (See Table) which will crawl the internet for accounts with identical usernames and provide links to them for you in a clean and presentable format.
+  
+  | Site | Why? |
+  | --- | --- |
+  | [Whats My Name](https://whatsmyname.app/) | Tracks accounts based off username and categorises them by site type and provides a link to each |  
+  | [Instant Username Search](https://instantusername.com/) | Well formatted and responsive site that updates as you type and displays found sites linked to that username in a tidy format |
+
+  <br>
+  
 </details>
 
 <details>
 
-<summary><b>How Do These Sites Work?</b></summary>
+<summary><b>How Do I Use Username Search Sites?</b></summary>
 
+  <br>
+  
+<details>
+  
+<summary><b>Whats My Name</b></summary>
+
+<br>
+  
+On loading the website you will be greeted with the search bar seen below:
+  
+![image](https://github.com/ollijri/SMOG/assets/66912443/735ad882-2b5a-429a-aa49-dc38ded32723)
+  
+The blue button on the left allows you to tailor your search to accounts based off of a certain category. This includes but is not limited to dating, coding and shopping sites.
+  
+To begin searching, enter the username into the white box and press the green button. If you wish to add multiple usernames, add a new line and enter the next username below the first like so:
+  
+![image](https://github.com/ollijri/SMOG/assets/66912443/40ede48f-827f-475d-adf1-f1b5e7abced7)
+  
+This will produce a list of all the accounts which share a username with the ones you have entered. The information on the left and the right is the same, they are just formatted differently so use either depending on your preference.
+  
+  <br>
+  
+ <p align="center">
+ <img src=https://github.com/ollijri/SMOG/assets/66912443/31246b8e-9c54-4497-9117-78b6f2e59174>
+ <br>
+   <i> The output on the left </i>
+ <br>
+   <br>
+ <img src=https://github.com/ollijri/SMOG/assets/66912443/ba93ddd4-03e5-48b7-8b9c-ead728a1b5ca>
+<br>
+  <i> The output on the right </i>
+   <br>
+    <br>
+ </p>
+  
+ <br>
+  
+</details>
+
+<details>
+
+<summary><b>Instant Username Search</b></summary>
+
+  <br>
+  
+  On loading the website you will be greeted with the search bar seen below:
+  
+  ![image](https://github.com/ollijri/SMOG/assets/66912443/f82c9858-530d-451d-9c75-9d7e48784600)
+  
+  To begin searching, enter the username into the white box and the website will automatically populate with accounts. If you wish to use multiple usernames at once, 'Whats My Name' is a better site for you.
+  
+  As seen below, the accounts which have identical usernames will be crossed out, these can be clicked on to redirect the user to the site referenced on the box and to the account profile of the connected username
+  
+  ![image](https://github.com/ollijri/SMOG/assets/66912443/e84af528-e26d-4698-8894-c636110cc480)
+  
+  
+</details>
+  
 </details>
 
 ____________________________________________________________________________________________________________________
 
 ### Social Media OSINT 💻
 
--- aim of this step is to find problems associated with your business or vierws applicant may have that would negatively effect reputation of business, reminder to stay within scope --
+By this stage, hopefully the 'Username OSINT' and 'Google Dorking' techniques will have led you to find at least one social media account linked to the target. 
+
+
+The next step is to consider the content of the accounts to see if the target will be detrimental to your business:
 
 - [ ] Check Facebook
 - [ ] Check Twitter
 - [ ] Check LinkedIn
-- [ ] Check Other Sites of Interest Located in the Previous Section
+- [ ] Check Other Sites of Interest Located in the 'Username OSINT' Section
 
 <details>
 
@@ -141,6 +215,10 @@ ________________________________________________________________________________
 <summary><b>What If The Account Is Private?</b></summary>
 
 </details>
+
+<br>
+
+📋 <i> In accordance with Article 8 of the European Convention of Human Rights, the user of this guide must be mindful of the content they are viewing during their investigation and must make an effort to maintain a balance between information gathering and respecting a target's privacy rights. </i>
 
 ____________________________________________________________________________________________________________________
 
