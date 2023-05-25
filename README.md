@@ -220,17 +220,14 @@ ________________________________________________________________________________
 
 ### Obtaining Criminal Records of Target 👮
 
--- more info goes here about how only obtainable from gov uk ---
+Criminal record checks in the UK are only available through the Disclosure and Barring Service (DBS) and the user will have to rely on requesting it from the target.
 
-- [ ] Request DBS From Applicant
+- [ ] Request DBS Certificate
 
-policy on recruitment of ex offenders [here](https://www.gov.uk/government/publications/dbs-sample-policy-on-the-recruitment-of-ex-offenders/sample-policy-on-the-recruitment-of-ex-offenders)
+📋 <i> In accordance with the Police Act (1997), if it is necessary to have a copy of the information from the DBS Certificate, the user must make sure the data is destroyed after a suitable period which is typically no more than 6 months. For more information, click [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/474742/Code_of_Practice_for_Disclosure_and_Barring_Service_Nov_15.pdf) </i>
 
-policy on data handling of dbs [here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/474742/Code_of_Practice_for_Disclosure_and_Barring_Service_Nov_15.pdf)
 
-<br>
-
-📋 <i> In accordance with the Rehabilitation of Offenders Act, employers cannot turn away an applicant due to a spent conviction and must treat the applicant as though the conviction had not happened . </i>
+📋 <i> In accordance with the Rehabilitation of Offenders Act (1974), employers cannot turn away an applicant due to a spent conviction and must treat the applicant as though the conviction had not happened. For more information, click [here](https://www.gov.uk/government/publications/dbs-sample-policy-on-the-recruitment-of-ex-offenders/sample-policy-on-the-recruitment-of-ex-offenders) </i>
 ____________________________________________________________________________________________________________________
 
 ### Current/Previous Company Search 🏢
